@@ -1,0 +1,38 @@
+[
+    {
+        "model": "genre.genre",
+        "pk": 1,
+        "fields": {
+            "name": "Classics"
+        }
+    },
+    {
+        "model": "genre.genre",
+        "pk": 2,
+        "fields": {
+            "name": "Mystery"
+        }
+    },
+    {
+        "model": "genre.genre",
+        "pk": 3,
+        "fields": {
+            "name": "Fantasy"
+        }
+    },
+    {
+        "model": "genre.genre",
+        "pk": 4,
+        "fields": {
+            "name": "Horror"
+        }
+    },
+    {
+        "model": "genre.genre",
+        "pk": 5,
+        "fields": {
+            "name": "Romance"
+        }
+    }
+
+]
